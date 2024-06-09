@@ -5,4 +5,4 @@ Data analysis for supply chain  management by using Qlik Sense Software
 
 # Pre Processed Dataset Link: https://ge8r4qqgi8tdkte.sg.qlikcloud.com/sense/app/8a93177c-8a38-432c-ba54-449afe673656
 
-# Demonstration vedio link: 
+# Demonstration vedio link: https://drive.google.com/file/d/1BQ4Oh6aKNAaDy6FxFYM-DGUWvCCg2f6B/view?usp=sharing
